@@ -10,16 +10,16 @@ Currently, two official plugins are available:
 
 # Plugins 
 
-ep_authorship_toggle
-ep_better_pdf_export
-ep_comments_page
-ep_desktop_notifications
-ep_etherpad-lite
-ep_font_color
-ep_font_size
-ep_headings2
-ep_markdown
-ep_print
-ep_print_preview_pdf
-ep_spellcheck
-ep_tables5
+<strong>ep_authorship_toggle </strong>
+<strong>ep_better_pdf_export</strong>
+<strong>ep_comments_page</strong>
+<strong>ep_desktop_notifications</strong>
+<strong>ep_etherpad-lite</strong>
+<strong>ep_font_color</strong>
+<strong>ep_font_size</strong>
+<strong>ep_headings2</strong>
+<strong>ep_markdown</strong>
+<strong>ep_print</strong>
+<strong>ep_print_preview_pdf</strong>
+<strong>ep_spellcheck</strong>
+<strong>ep_tables5</strong>
